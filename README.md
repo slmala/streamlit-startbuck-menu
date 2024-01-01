@@ -257,4 +257,4 @@ Jumlah cluster sebanyak 3 ternyata memiliki skor tertinggi, yakni 0.724640426445
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-startbuck-menu-kdpwntait6ukblhxfvbsmk.streamlit.app/
